@@ -1,0 +1,8 @@
+---
+galaxy_info:
+  author: William Hoffmann
+  description: A module to ping a system ...
+  company: Red Hat Inc,
+  license: license (GPLv2, CC-BY, etc)
+  min_ansible_version: 1.2
+  
